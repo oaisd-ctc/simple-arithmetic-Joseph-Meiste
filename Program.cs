@@ -67,5 +67,9 @@ class Program
             int mod = (x % y);
             Console.WriteLine(y + ", alright! That’s easy. " + x + " % " + y + " is " + mod + "!");
         }
+
+        else {
+            Console.WriteLine("That is not a valid number, please try again.");
+        }
     }
 }
