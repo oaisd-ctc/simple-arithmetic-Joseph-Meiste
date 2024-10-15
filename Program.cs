@@ -68,5 +68,4 @@ class Program
             Console.WriteLine(y + ", alright! That’s easy. " + x + " % " + y + " is " + mod + "!");
         }
     }
-
 }
